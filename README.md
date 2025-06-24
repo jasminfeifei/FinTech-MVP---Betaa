@@ -3,7 +3,7 @@
 
 > A tokenized peer-to-peer mentorship platform for the climbing community.
 
-## 🚀 Project Overview
+## Project Overview
 
 **BetaChain** connects novice climbers with experienced mentors through a closed-loop token economy (BetaBucks).
 This MVP implements the core flows:
@@ -14,7 +14,7 @@ This MVP implements the core flows:
 * **BetaBucks Transfer**
 * **Feedback & Rating**
 
-## 🛠️ Technologies & Architecture
+## Technologies & Architecture
 
 * **Language**: JavaScript (ES6+)
 * **Framework**: React (Create React App)
@@ -35,7 +35,7 @@ This MVP implements the core flows:
     * `Feedback.js`: rating and comment form
     * `BetaBucks.js`: real-time balance display
 
-## 🎯 Main Features
+## Main Features
 
 1. **Role-Based Login**: differentiate Novice and Mentor
 2. **Dynamic Filtering**: filter mentors by gender, age range, level, city, and price
